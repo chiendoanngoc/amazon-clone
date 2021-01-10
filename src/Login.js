@@ -39,7 +39,7 @@ function Login() {
       <Link to='/'>
         <img 
           className='login__logo'
-          src='https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png'  
+          src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png'  
         />
       </Link>
 
